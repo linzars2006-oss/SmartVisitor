@@ -221,17 +221,6 @@ Smart-Visitor-System/
 - SMS Notifications
 - Multi-Branch Support
 - Biometric Integration
-
----
-
-## 👨‍💻 Team
-
-### Final Year Project
-
-- Linza Rajesh
-- Team Member 2
-- Team Member 3
-
 ---
 
 ## ⭐ Support
