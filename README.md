@@ -19,7 +19,6 @@ The **Smart Visitor & Appointment Tracking System** digitizes the entire process
 - Visitor Registration
 - Appointment Booking
 - Approval Workflow
-- QR-Based Visitor Pass
 - Real-Time Visitor Tracking
 - Notifications & Updates
 - Visitor Analytics Dashboard
@@ -45,11 +44,6 @@ The **Smart Visitor & Appointment Tracking System** digitizes the entire process
 - Admin dashboard
 - Department-wise approvals
 - Instant status updates
-
-### 🎫 Smart Visitor Pass
-- QR Code generation
-- Digital visitor pass
-- Quick verification
 
 ### 📊 Dashboard & Analytics
 - Total Visitors
@@ -109,11 +103,6 @@ MongoDB Database
 - JWT
 - bcrypt
 
-### Additional Tools
-- QR Code Generator
-- Nodemailer
-- Cloudinary (optional)
-
 ---
 
 ## 📂 Project Structure
@@ -151,7 +140,6 @@ Smart-Visitor-System/
 
 ### 2️⃣ Visitor Registration Module
 - Visitor Information Form
-- ID Proof Upload
 - Visit Purpose
 
 ### 3️⃣ Appointment Management Module
@@ -164,9 +152,6 @@ Smart-Visitor-System/
 - Reject Requests
 - Appointment History
 
-### 5️⃣ Visitor Pass Module
-- QR Code Generation
-- Visitor Verification
 
 ### 6️⃣ Analytics Module
 - Reports
